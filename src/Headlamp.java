@@ -16,5 +16,6 @@ public class Headlamp extends LightDevice {
                 ", mount='" + mount + '\'' +
                 ", power='" + power + '\'' +
                 '}';
+        System.out.println(fggfg);
     }
 }
